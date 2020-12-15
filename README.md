@@ -1,4 +1,6 @@
 # burn-severity
+[![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
 GIS tools for classifying wildfire burn severity from satellite imagery
 ## Usage
 This tool will take a fire perimeter and use pre and post fire Landsat images to classify burn severitsy. The images are compared and a severity polygon layer is created based on the fire perimeter.
